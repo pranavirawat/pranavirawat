@@ -12,7 +12,7 @@ When I’m not coding, you’ll find me singing or sketching. I believe creativi
 
 ## Skills
 
-- Python, NumPy, SymPy Pandas
+- Python, NumPy, SymPy, Pandas
 - C++ (intermediate)
 - HTML, CSS, JavaScript (beginner)
 - Django
